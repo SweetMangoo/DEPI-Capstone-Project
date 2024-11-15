@@ -1,2 +1,2 @@
 # DEPI-Capstone-Project
-The digital Egyptian pioneers initiative capstone project
+The Digital Egyptian Pioneers Initiative capstone project
